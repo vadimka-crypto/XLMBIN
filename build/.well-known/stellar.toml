@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDZGINPTBQZQZIOKZYQ2YOWUTNKTKKYLP4BQFUC3HRIWUSHAKLRFXUOA",
-"GAIT5PGZHBDXIUJ2J4WCRMVP4JO7B6JMPVZ7S3AKHHQ3A2GVOATE2OEI"
+"GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
+"GBHRX55CETH5T2W37OMHRS2GQHPZD2ISV2EFSTPTS2JPMRVOYCV6WYR7"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMPAY"
-ORG_TWITTER="@XLMPAY"
-ORG_LOGO="https://i.ibb.co/1TCLQHG/Stellar-Symbol.png"
-ORG_OFFICIAL_EMAIL="XLMPAY@tutanota.com"
+ORG_NAME="XLMBIN"
+ORG_TWITTER="@XLMBIN"
+ORG_LOGO="https://i.ibb.co/SdMLNJh/631c823b-886e-4e46-b12f-29e5fdc0882e.png"
+ORG_OFFICIAL_EMAIL="XLMBIN@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMPAY"
-issuer="GAIT5PGZHBDXIUJ2J4WCRMVP4JO7B6JMPVZ7S3AKHHQ3A2GVOATE2OEI"
+code="XLMBIN"
+issuer="GBHRX55CETH5T2W37OMHRS2GQHPZD2ISV2EFSTPTS2JPMRVOYCV6WYR7"
 anchor_asset="false"
-name="Stellar Pay"
-desc="Stellar Pay [XLMPAY],  Stellar pay is an advanced payment system based on XLM, which will replace XLM in the future. "
-conditions="There will only ever be 5.000.000 XLMPAY tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/1TCLQHG/Stellar-Symbol.png"
-fixed_number=5000000
-max_number=5000000
+name="Stellar Binance"
+desc="Stellar Binance [XLMBIN],  Binance is a Cayman Islands-domiciled cryptocurrency exchange that provides a platform for trading various cryptocurrencies founded in 2017. As of April 2021, Binance was the largest cryptocurrency exchange in the world in terms of trading volume. "
+conditions="There will only ever be 3.000.000 XLMBIN tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/SdMLNJh/631c823b-886e-4e46-b12f-29e5fdc0882e.png"
+fixed_number=3000000
+max_number=3000000
 is_unlimited=false
-#XLMPAY was issued using the open and inclusive Stellar blockchain network.
+#XLMBIN was issued using the open and inclusive Stellar blockchain network.
